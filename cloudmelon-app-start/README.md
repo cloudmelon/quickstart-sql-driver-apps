@@ -1,4 +1,11 @@
 # Cloudmelon sample started app 
+This application use to show a start level example of docker-based application in node.js 
+
+Implementing Microsoft Azure Infrastructure Solutions : Exam Guide 70-533
+Author : Melony QIN
+
+More details on :
+https://www.packtpub.com/virtualization-and-cloud/implementing-microsoft-azure-infrastructure-solutions-exam-guide-70-533
 
 
 ## Command to use 
