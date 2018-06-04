@@ -1,9 +1,6 @@
 # cloudmelon Sample Application Repository
 
-This repository stores docker-based applications mentionned in the book:
-
-Implementing Microsoft Azure Infrastructure Solutions : Exam Guide 70-533
-Author : Melony QIN
+This repository stores applications by cloudmelon
 
 
 More details on :
