@@ -1,6 +1,6 @@
 # cloudmelon Sample Application Repository
 
-This repository stores applications by cloudmelon
+This repository stores applications sample Docker application to test CI/CD by cloudmelon
 
 
 More details on :
