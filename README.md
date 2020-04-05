@@ -1,4 +1,4 @@
-# Sample Helloworld Application written in different programing languages
+# Quickstart with Helloworld Applications 
 
 This repository stores applications sample Docker application to test CI/CD by cloudmelon
 
