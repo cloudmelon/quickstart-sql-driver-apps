@@ -1,4 +1,4 @@
-# Quickstart with Helloworld Applications 
+# Quickstart with HelloWorld  
 
 This repository stores Sample Helloworld Application written in different programing languages.
 
