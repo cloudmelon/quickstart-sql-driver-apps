@@ -1,16 +1,6 @@
-# cloudmelon Sample Application Repository
+# Sample Helloworld Application written in different programing languages
 
 This repository stores applications sample Docker application to test CI/CD by cloudmelon
-
-
-## Guide book
-
-Implementing Microsoft Azure Infrastructure Solutions : Exam Guide 70-533
-Author : Melony QIN
-
-
-More details on :
-https://www.packtpub.com/virtualization-and-cloud/implementing-microsoft-azure-infrastructure-solutions-exam-guide-70-533
 
 ## Guide blog site 
 Blog site : https://www.cloud-melon.com/
@@ -25,6 +15,18 @@ ARM Template :
 Azure PowerShell :
    https://github.com/cloudmelon/azure-resources-audit-powershell
 
-Lab repository : https://github.com/cloudmelon/cloudmelonsamplecloudlab
+Lab repository : 
+    https://github.com/cloudmelon/cloudmelonsamplecloudlab
 
-Application repository : https://github.com/cloudmelon/cloudmelonsampleapp
+
+
+## Guide book
+
+- Implementing Microsoft Azure Infrastructure Solutions : Exam Guide 70-533
+  Author : Melony QIN
+  https://www.packtpub.com/virtualization-and-cloud/implementing-microsoft-azure-infrastructure-solutions-exam-guide-70-533
+
+
+- The Kubernetes Workshop 
+  Author : Melony QIN
+  https://www.packtpub.com/gb/cloud-networking/the-kubernetes-workshop
