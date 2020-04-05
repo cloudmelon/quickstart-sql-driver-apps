@@ -7,39 +7,39 @@ Blog site : https://www.cloud-melon.com/
 
 Share your insights with @MelonyQ at https://twitter.com/MelonyQ
 
-# Cloudmelon playbook Github repositories : 
+## Cloudmelon playbook Github repositories : 
 
 Kubernetes Playbook :
 
-    https://github.com/cloudmelon/melonkube
+   https://github.com/cloudmelon/melonkube
    
 Kubernetes Ecosystem Playbook :
    
-    https://github.com/cloudmelon/k8secosys
+   https://github.com/cloudmelon/k8secosys
 
 Spark Playbook : 
 
-    https://github.com/cloudmelon/spark-playbook
+   https://github.com/cloudmelon/spark-playbook
 
 Python Playbook:
 
-    https://github.com/cloudmelon/python-playbook
+   https://github.com/cloudmelon/python-playbook
 
 Golang Playbook:
 
-    https://github.com/cloudmelon/golang-playbook 
+   https://github.com/cloudmelon/golang-playbook 
 
 Git Playbook : 
    
-    https://github.com/cloudmelon/git-playbook
+   https://github.com/cloudmelon/git-playbook
 
 Linux Playbook :
 
-    https://github.com/cloudmelon/linux-playbook
+   https://github.com/cloudmelon/linux-playbook
 
-Lab repository : 
+Hybrid Scenarios : 
      
-    https://github.com/cloudmelon/cloudmelonsamplecloudlab
+   https://github.com/cloudmelon/hybrid-scenarios
 
 
 
