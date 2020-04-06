@@ -7,16 +7,39 @@ Blog site : https://www.cloud-melon.com/
 
 Share your insights with @MelonyQ at https://twitter.com/MelonyQ
 
-# Reference repository : 
+## Cloudmelon playbook Github repositories : 
 
-ARM Template : 
-   https://github.com/cloudmelon/azure-multiple-vmss-linux
+Kubernetes Playbook :
 
-Azure PowerShell :
-   https://github.com/cloudmelon/azure-resources-audit-powershell
+   https://github.com/cloudmelon/melonkube
+   
+Kubernetes Ecosystem Playbook :
+   
+   https://github.com/cloudmelon/k8secosys
 
-Lab repository : 
-    https://github.com/cloudmelon/cloudmelonsamplecloudlab
+Spark Playbook : 
+
+   https://github.com/cloudmelon/spark-playbook
+
+Python Playbook:
+
+   https://github.com/cloudmelon/python-playbook
+
+Golang Playbook:
+
+   https://github.com/cloudmelon/golang-playbook 
+
+Git Playbook : 
+   
+   https://github.com/cloudmelon/git-playbook
+
+Linux Playbook :
+
+   https://github.com/cloudmelon/linux-playbook
+
+Hybrid Scenarios : 
+     
+   https://github.com/cloudmelon/hybrid-scenarios
 
 
 
