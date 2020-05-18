@@ -1,3 +1,6 @@
-./hello-django-app/hello/__pycache__
-./hello-django-app/.venv/**
+./django-pyodbc-app/hello/__pycache__
+./django-pyodbc-app/.venv/**
 
+./flask-pyodbc-app/__pycache__
+./flask-pyodbc-app/venv
+./flask-pyodbc-app/env
