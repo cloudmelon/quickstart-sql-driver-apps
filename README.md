@@ -1,4 +1,4 @@
-# Quickstart with HelloWorld apps with SQL Drivers 
+# Quickstart Modern Application Development with SQL Drivers 
 
 This repository stores Sample Helloworld Application written in different programing languages using SQL Drivers to connect SQL Server, Azure SQL Database and Big Data Clusters ( BDC ).
 
