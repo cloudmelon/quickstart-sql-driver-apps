@@ -1,47 +1,25 @@
-# Quickstart with HelloWorld  
+# Quickstart with HelloWorld apps with SQL Drivers 
 
-This repository stores Sample Helloworld Application written in different programing languages.
+This repository stores Sample Helloworld Application written in different programing languages using SQL Drivers to connect SQL Server, Azure SQL Database and Big Data Clusters ( BDC ).
+
+# SQL Server Connectors 
+
+Microsoft provides a set of Connectivity driver for use with SQL Server, and Azure SQL Database. As of today, there are the following supported drivers : 
+
+- ADO.Net for SQL Server
+- JDBC Driver
+- ODBC Driver
+- Node.js driver
+- Python Driver 
+- Ruby Driver
+
+To download SQL Server connectors : https://www.microsoft.com/en-gb/sql-server/sql-server-downloads
+
 
 ## Guide blog site 
 Blog site : https://www.cloud-melon.com/
 
 Share your insights with @MelonyQ at https://twitter.com/MelonyQ
-
-## Cloudmelon playbook Github repositories : 
-
-Kubernetes Playbook :
-
-   https://github.com/cloudmelon/melonkube
-   
-Kubernetes Ecosystem Playbook :
-   
-   https://github.com/cloudmelon/k8secosys
-
-Spark Playbook : 
-
-   https://github.com/cloudmelon/spark-playbook
-
-Python Playbook:
-
-   https://github.com/cloudmelon/python-playbook
-
-Golang Playbook:
-
-   https://github.com/cloudmelon/golang-playbook 
-
-Git Playbook : 
-   
-   https://github.com/cloudmelon/git-playbook
-
-Linux Playbook :
-
-   https://github.com/cloudmelon/linux-playbook
-
-Hybrid Scenarios : 
-     
-   https://github.com/cloudmelon/hybrid-scenarios
-
-
 
 ## Guide book
 
