@@ -6,10 +6,10 @@ app = Flask(__name__)
 @app.route('/')
 def hello_world():
 
-    server = 'melondbdriversvr.database.windows.net'
-    database = 'melondbdriver' 
-    username = 'testcloudadmin' 
-    password = 'testcloud!123' 
+    server = '<your endpoint>' 
+    database = '<your db>' 
+    username = '<your db username>' 
+    password = '<your pwd>' 
     driver= '{ODBC Driver 17 for SQL Server}'
     cnxn = pyodbc.connect('DRIVER='+driver+';SERVER='+server+';PORT=1433;DATABASE='+database+';UID='+username+';PWD='+ password)
     cursor = cnxn.cursor()
