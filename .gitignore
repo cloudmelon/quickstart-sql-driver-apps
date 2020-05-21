@@ -1,6 +1,12 @@
-./django-pyodbc-app/hello/__pycache__
-./django-pyodbc-app/.venv/**
+django-pyodbc-app/hello/__pycache__
+django-pyodbc-app/.venv/**
 
-./flask-pyodbc-app/__pycache__
-./flask-pyodbc-app/venv
-./flask-pyodbc-app/env
+flask-pyodbc-app/__pycache__
+flask-pyodbc-app/venv
+flask-pyodbc-app/env/**
+
+quantum-qsharp-app/env2/**
+quantum-qsharp-app/obj/**
+
+
+.vscode/
